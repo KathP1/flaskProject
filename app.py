@@ -22,9 +22,5 @@ def f(celsius=""):
            f"{fahrenheit}&#176; fahrenheit</h2>"
 
 
-def thing():
-    pass
-
-
 if __name__ == '__main__':
     app.run()
